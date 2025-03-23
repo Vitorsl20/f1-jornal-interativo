@@ -1,0 +1,9 @@
+streamlit
+pandas
+requests
+schedule
+google-api-python-client
+fpdf
+fastf1
+matplotlib
+beautifulsoup4

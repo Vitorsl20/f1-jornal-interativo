@@ -1,0 +1,23 @@
+
+# Python
+__pycache__/
+*.pyc
+
+# Streamlit cache
+.streamlit/
+.cache/
+cache_fastf1/
+
+# Google credentials
+utils/credentials_calendar.json
+
+# Dados locais
+data/historico_fantasy.csv
+config.json
+
+# PDF e logs
+*.pdf
+*.log
+
+# Sistema
+.DS_Store
